@@ -47,21 +47,19 @@ go by.
 
 </br>
 
-<p align="center">
+<p align="left">
    <a href="https://github.com/isacssw?tab=repositories">
     <img
       align="center"
-      height="165"
+      height="150"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=isacssw&langs_count=8&layout=compact&theme=dracula"
     />
   </a>
 
-</br>
-
   <a href="https://github.com/isacssw?tab=repositories">
     <img
-      align="center"
-      height="165"
+      align="right"
+      height="150"
       src="https://github-readme-stats.vercel.app/api?username=isacssw&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues&theme=dracula"
     />
   </a>
