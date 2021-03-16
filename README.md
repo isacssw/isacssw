@@ -1,6 +1,14 @@
 ### Olá Pessoal 👋
 
-Eu sou Jackson, formado em Engenharia de Computação. Trabalho com Teste de Software há 4 anos no mercado de TI. Oferecendo maior experiência em Testes Funcionais, Testes de Regressão e Testes Automatizados <b> (Selenium IDE/WebDriver, Katalon, Cucumber, JUnit, Gherkin)</b>. Também apaixonado por programação Back-End <b>(Java)</b> e Front-end <b>(Angular, Bootstrap, Materialize, HTML5 e CSS)</b>. Caso Queira saber melhor sobre mim, minhas redes sociais estarão disponíveis abaixo.
+From the moment I produced my first “Hello World” using
+C at the university in my first application, I knew I was
+hooked into the world of software development. But
+software development has never been “just a job” for me,
+it’s offered an engaging challenge to continually learn and
+improve my skills in creating high-quality software. What
+started with a simple “Hello World” has become a full-
+fledged passion that only gets more exciting as the years
+go by.
 
 <img align="right" alt="GIF" src="Documentos/Prints/escritorio.gif" width="350" height="280" />
 
