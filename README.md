@@ -14,10 +14,10 @@ go by.
 
 ### About:
 
-- JavaScript Developer
-- Electrical Engineering
-- 24 years old
-- Lisbon, Portugal
+- 💻 JavaScript Developer
+- 🎓 Electrical Engineering
+- 🎉 24 years old
+- 📌 Lisbon, Portugal
 
 ### Social Media:
 
