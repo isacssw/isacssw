@@ -1,4 +1,4 @@
-### Olá Pessoal 👋
+### Hello guys 👋
 
 From the moment I produced my first “Hello World” using
 C at the university in my first application, I knew I was
@@ -15,7 +15,7 @@ go by.
 ### Sobre:
 
 - 💻 JavaScript Developer
-- 🎓 Engenharia Elétrica
+- 🎓 Electrical Engineering
 - 🎉 24 years old
 - 📌 Lisbon, Portugal
 
