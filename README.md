@@ -19,7 +19,7 @@ go by.
 - 🎉 24 years old
 - 📌 Lisbon, Portugal
 
-### Redes Sociais:
+### Social Media:
 
 
   <a href="https://www.linkedin.com/in/isacx/" alt="Linkedin">
