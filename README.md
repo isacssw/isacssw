@@ -55,7 +55,9 @@ go by.
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=isacssw&langs_count=8&layout=compact&theme=dracula"
     />
   </a>
-</br>  
+
+</br>
+
   <a href="https://github.com/isacssw?tab=repositories">
     <img
       align="center"
@@ -63,9 +65,6 @@ go by.
       src="https://github-readme-stats.vercel.app/api?username=isacssw&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues&theme=dracula"
     />
   </a>
-
-
-
 
 </p>
 
