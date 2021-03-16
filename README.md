@@ -14,9 +14,10 @@ go by.
 
 ### About:
 
-- 💻 JavaScript Developer
+- 💻 JavaScript Developer / Node.js
 - 🎓 Electrical Engineering
 - 🎉 24 years old
+- 🌏 20 visited countries
 - 📌 Lisbon, Portugal
 
 ### Social Media:
