@@ -12,7 +12,7 @@ go by.
 
 <img align="right" alt="GIF" src="Documentos/Prints/escritorio.gif" width="350" height="280" />
 
-### Sobre:
+### About:
 
 - 💻 JavaScript Developer
 - 🎓 Electrical Engineering
