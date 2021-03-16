@@ -47,7 +47,7 @@ go by.
 
 </br>
 
-<p align="left">
+<p align="center">
    <a href="https://github.com/isacssw?tab=repositories">
     <img
       align="center"
@@ -58,7 +58,7 @@ go by.
 
   <a href="https://github.com/isacssw?tab=repositories">
     <img
-      align="right"
+      align="center"
       height="150"
       src="https://github-readme-stats.vercel.app/api?username=isacssw&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues&theme=dracula"
     />
