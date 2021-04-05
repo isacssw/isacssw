@@ -14,7 +14,7 @@ go by.
 
 ### About:
 
-- 💻 JavaScript Developer / Node.js
+- 💻 Full Stack Developer / Node.js / React.js
 - 🎓 Electrical Engineering
 - 🎉 24 years old
 - 🌏 20 visited countries
