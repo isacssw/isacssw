@@ -14,7 +14,7 @@ go by.
 
 ### About:
 
-- 💻 Full Stack Developer / Node.js / React.js
+- 💻 Full Stack Developer / Node.js / Vue.js
 - 🎓 Electrical Engineering
 - 🎉 24 years old
 - 🌏 20 visited countries
