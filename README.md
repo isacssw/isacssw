@@ -16,7 +16,7 @@ go by.
 
 - 💻 Full Stack Developer / Node.js / Vue / React
 - 🎓 Electrical Engineering
-- 🎉 24 years old
+- 🎉 27 years old
 - 🌏 20 visited countries
 - 📌 London, United Kingdom
 
