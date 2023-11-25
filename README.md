@@ -18,7 +18,7 @@ go by.
 - 🎓 Electrical Engineering
 - 🎉 24 years old
 - 🌏 20 visited countries
-- 📌 Lisbon, Portugal
+- 📌 London, United Kingdom
 
 ### Social Media:
 
