@@ -1,4 +1,4 @@
-### Hello guys 👋
+### Hello 👋
 
 From the moment I produced my first “Hello World” using
 C at the university in my first application, I knew I was
@@ -21,7 +21,6 @@ go by.
 - 📌 London, United Kingdom
 
 ### Social Media:
-
 
   <a href="https://www.linkedin.com/in/isacx/" alt="Linkedin">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -66,4 +65,3 @@ go by.
   </a>
 
 </p>
-
